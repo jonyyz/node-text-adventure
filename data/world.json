@@ -1,0 +1,22 @@
+{
+  "1": {
+    "name": "First Room",
+    "description": "You are standing in the first room.",
+    "exits": {
+      "north": {
+        "description": "You see a dirt road.",
+        "to": 2
+      }
+    }
+  },
+  "2": {
+    "name": "On a Dirt Road",
+    "description": "You are standing on a dirt road.",
+    "exits": {
+      "south": {
+        "description": "You see the first room.",
+        "to": 1
+      }
+    }
+  }
+}

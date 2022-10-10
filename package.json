@@ -1,0 +1,11 @@
+{
+  "name": "node-text-adventure",
+  "author": "Jon Cameron",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "node --no-warnings main.js"
+  }
+}
